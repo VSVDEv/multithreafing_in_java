@@ -1,37 +1,37 @@
-#Multithreading in Java
+# **Multithreading in Java**
 ![logo](banner.jpg)
-##**Create Thread** [link to folder](src/com/vsvdev/create)
+## **Create Thread** [link to folder](src/com/vsvdev/create)
 
-##**Thread Lifecycle** [link to folder](src/com/vsvdev/threadlife)
+## **Thread Lifecycle** [link to folder](src/com/vsvdev/threadlife)
 
-##**Atomic** [link to folder](src/com/vsvdev/atomic)
+## **Atomic** [link to folder](src/com/vsvdev/atomic)
 
-##**Synchronized** [link to folder](src/com/vsvdev/synchro)
+## **Synchronized** [link to folder](src/com/vsvdev/synchro)
 
-##**Volatile** [link to folder](src/com/vsvdev/volatil)
+## **Volatile** [link to folder](src/com/vsvdev/volatil)
 
-##**CountDownLatch** [link to folder](src/com/vsvdev/countdown)
+## **CountDownLatch** [link to folder](src/com/vsvdev/countdown)
 
-##**CompletableFuture** [link to folder](src/com/vsvdev/completablefuture)
+## **CompletableFuture** [link to folder](src/com/vsvdev/completablefuture)
 
-##**ReentrantLock** [link to folder](src/com/vsvdev/reentrantlock)
+## **ReentrantLock** [link to folder](src/com/vsvdev/reentrantlock)
 
-##**Condition** [link to folder](src/com/vsvdev/reentrantlock)
+## **Condition** [link to folder](src/com/vsvdev/reentrantlock)
 
-##**Singleton** [link to folder](src/com/vsvdev/singleton)
+## **Singleton** [link to folder](src/com/vsvdev/singleton)
 
-##**CyclicBarrier** [link to folder](src/com/vsvdev/cyclicbar)
+## **CyclicBarrier** [link to folder](src/com/vsvdev/cyclicbar)
 
-##**Semaphore** [link to folder](src/com/vsvdev/semaphore)
+## **Semaphore** [link to folder](src/com/vsvdev/semaphore)
 
-##**Executor** [link to folder](src/com/vsvdev/executor)
+## **Executor** [link to folder](src/com/vsvdev/executor)
 
-##**ForkJoinPoll** [link to folder](src/com/vsvdev/forkjoin)
+## **ForkJoinPoll** [link to folder](src/com/vsvdev/forkjoin)
 
-##**Phaser** [link to folder](src/com/vsvdev/phaser)
+## **Phaser** [link to folder](src/com/vsvdev/phaser)
 
-##**Stream** [link to folder](src/com/vsvdev/stream)
+## **Stream** [link to folder](src/com/vsvdev/stream)
 
-##**Exchanger** [link to folder](src/com/vsvdev/exchanger)
+## **Exchanger** [link to folder](src/com/vsvdev/exchanger)
 
-##**Concurrent Collection** [link to folder](src/com/vsvdev/concurrentcollect)
+## **Concurrent Collection** [link to folder](src/com/vsvdev/concurrentcollect)
